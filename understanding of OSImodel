@@ -1,0 +1,61 @@
+There are 7 layers of OSI model
+
+layer 1- physical
+layer 2- data
+layer 3- Network 
+layer 4- Transport
+layer 5- Session 
+layer 6- Presentation
+layer 7- Application
+
+Layer 1: The physics of the network
+Is the connection between one network to other network by..
+-Singnaling, cabling, connectors
+-is not about protocols
+there is:"Hub" and “media converter”
+“If you have physical problem”
+-Fix your cabling, punch downs, etc
+-run loopback tests, test,replace cables
+swap adapter.
+
+Layer 2: Data Link Layer
+is the connection with MOC address between two network
+-The basic network “language”
+the foundation of communication at the data link layer
+-The “switching” layer and “bridge”
+
+Layer 3: Network Layer
+is the connection betweent two network with IP address (internet protocol)
+packets or the routing layer
+use: router and basic firewall
+
+Layer 4: Transport Layer
+is the jop to transport the websites to the user in saprated frames
+The “post office” layer
+
+-TCP(Transmission control protocol) 
+-UDP(User Datagram protocol)
+
+Layer 5: Session Layer
+is the jop to start or stop or reset the communication from and to the user
+-control protocol
+-tunneling protocol
+
+Layer 6: Presentation Layer
+Is the function that computer luaguage is communcate with other
+-charater encoding
+-application encryption
+- ofter combined with layer 7
+
+Layer 7: Application layer
+is the websites and pages we see
+-HTTP , FTP , DNS , POP3
+
+Steps in how conversation is ocare
+Application: https://gmail.com
+Prsentation: SSL encryption
+Session: Liknk the presentaion and application layer
+Transport: TCP encapsulation
+Network: Ip encapsulation
+Data link: Ethenet or MAC address
+Physical: Electrical signals
