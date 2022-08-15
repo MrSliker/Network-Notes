@@ -1,0 +1,56 @@
+Network topologies
+is the way thath connect all pc and network in one place like:
+
+STAR: jobs
+-connect and spok togather
+-used in moast large and small network
+-all devices are connected to a central device 
+-switched ethernet newtwoek 
+were switch is in the middle
+and all talk into th switch
+
+
+
+Ring: circule network
+is old type that connect all network in circuler line
+still uses in (MANs) and (WANs)
+is not rocomanded in company and large area
+
+
+
+Bus: single line
+-is early local area network
+-simple, but prone to errors
+-on break cases all disabled
+
+
+
+Mesh: multiple switches
+-fully connected
+-partially connected
+-more saftely and easy to reconnect if one breack down
+-used with large area of network
+
+
+
+
+Hybrid: combination one or more physical topologies
+-Most networks are a hybrid
+- it desing of star and mesh 
+
+
+
+
+
+Wireless topologies: 
+-is conecction betweent two devices with not cabels 
+-useding acces point most common wirless uesed
+-devices communication amongst themselves
+-advantge is abel to connect alot of divices in one places and fare away
+
+
+
+
+
+
+
