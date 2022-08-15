@@ -1,0 +1,28 @@
+Tcp flags:
+is the layer 4 transport
+witch contains important information
+-includes a set of bits called TCP flags
+
+the flags control the payload
+SYN- Synchronize sequence numbers
+PSH- push the data to the application without buffering
+RST- reset the connection
+FIN- lat packet from the sender
+
+Maximum transmission Unit (MTU)
+Maximum ip packet to transmit
+-but not fragment
+
+-fragmentaion slows thiisngs down
+losing fragment loses an entire packet
+requires overhead along the path
+
+difficult to know the MTU all the way through the path
+
+"The maximum ip packets is 1500 bytes" 
+
+What is ip fragmentation?
+is the how many bytes that is allowed to transfare
+if the network is 16 bytes it will sabrated the byte 
+
+Trabelshooting MTU
