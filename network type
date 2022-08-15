@@ -1,0 +1,98 @@
+Network types:
+
+1- Peer to-peer  conection
+-All devices are both clints and servers
+-everyone talks to everyone
+
+Advantages
+-easy to deploy
+-low cost
+
+Disadvantages
+-Difficult to administer
+-Difficult to secure
+
+
+
+2- Client server
+-Clinents talk to the server
+-non-talk to client
+
+Advantages
+-hight performace easy to adminstarter
+
+Disadvantages
+-cost and complexity
+
+
+
+
+3- LAN (Local Area Network)
+It uses for big companyes
+-building or gourp of building that store the data
+-high speed connectivity
+
+Ethernet and 802.11 wireless
+
+
+
+4- MAN (Metropoltion Area Network)
+-A network in your city witch is soo big for all the city under the ground
+-Large than LAN often smaller than WAN
+
+
+
+5- WAN (Wide Area Network)
+is the fibers that connect to far area through the city
+-slower than th LAN
+
+Many different WAN technologies
+-point to point seril MPLS
+
+
+
+6-WLAN (Wireless LAN)
+-802.11 technologies
+
+Mobility
+-conecet within the building
+-limites distance area
+
+Expand coverage with additional access point
+-is in Downtown area malls
+-large campus
+
+
+
+7- PAN
+is the network that is between your phone an other divices 
+like hear phone, watch, speakrs,etc
+
+
+8-CAN
+is the network connection between many big biulding with the same network using fibers through buldings
+such as school university comapny
+-high speed thernet
+-no third party provider
+
+
+
+9- NAS(Network Attached Storage)
+- big storge for information
+-connect to shared storage device aross the network
+-file level access
+you can not change a small bytes it should change every thing inside
+ 
+ 
+ 
+10- SAN (Storage Area Network)
+like local storage device
+block level access
+-very efficient reading and writing
+
+
+11-MGRE (Multipoint generic router encapsulation)
+-used for dynamic vpn for bulding new conection with other ip if need to talk with and close the conection if need to stop it
+
+12- SD-WAN
+is the big Data that store all information in Databaser and webserver in cloud with no need to conect to the data center
